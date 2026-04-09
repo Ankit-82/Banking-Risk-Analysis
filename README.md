@@ -1,6 +1,6 @@
 ﻿# Banking-Risk-Analysis
 
-![alt text](bank_dashboard.png)
+
 # 🏦 Banking Risk Analysis Dashboard
 
 ## 📌 Overview
